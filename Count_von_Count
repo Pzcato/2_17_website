@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+</head>
+<body>
+<header><h1><a href="index.html">Vampires!</a></h1></header>
+<nav><h3><a href="Dracula.html">Dracula</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Nosferatu.html">Nosferatu</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="Count_von_Count.html">Count von Count</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Count_Chocula.html">Count Chocula</a>
+</h3></nav>
+<main>
+  <p>Count von Count is a fictional mysterious but friendly vampire-like Muppet on the long-running PBS/HBO children's television show Sesame Street who is meant to parody Bela Lugosi's portrayal of Count Dracula. He first appeared on the show in the Season 4 premiere in 1972, counting blocks in a sketch with Bert and Ernie.
+  <blockquote><i><b>AH-AH-AH!</b></i> <br>&nbsp;&nbsp;&nbsp;&nbsp;-Count von Count
+</main>
+<footer>
+  <p>1 800 VAMPIRE<br>123 River Lane Transylvania, Romaina
+  </footer>
+</body>
+</html>
+
 
