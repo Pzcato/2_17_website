@@ -25,6 +25,7 @@ body{
     font-size: 5em;
     letter-spacing: 2px;
     text-align: center;
+    padding-top:-25px;
   }
   a {
     color: #cf0000;
