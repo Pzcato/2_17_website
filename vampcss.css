@@ -28,4 +28,7 @@ body{
     letter-spacing: 2px;
     text-align: center;
   }
+  a {
+    color: #cf0000;
+  }
   .list {padding-left: 25px;}
