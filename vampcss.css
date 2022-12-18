@@ -19,6 +19,7 @@ body{
     font-size: 5em;
     letter-spacing: 4px;
     text-align: center;
+    padding:-150px;
   }
   nav {
     color: #cf0000;
@@ -26,7 +27,7 @@ body{
     font-size: 5em;
     letter-spacing: 2px;
     text-align: center;
-    padding-top:-100px;
+    padding:-150px;
   }
   a {
     color: #cf0000;
