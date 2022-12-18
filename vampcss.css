@@ -10,7 +10,7 @@
   font-family:VampireText;
   src: url(DarkAge.ttf);
 }
-#wrapper {margin-left: 30px;}
+#wrapper {margin: 30px;}
 body{
     background-color: #1a0010;
   }
@@ -20,6 +20,9 @@ body{
     font-family:VampireText;
     font-size: 2em;
     letter-spacing: 1px;
+  }
+  .mp {
+    margin-right: 560px;
   }
   header {
     color: #cf0000;
