@@ -6,12 +6,18 @@
   font-family:VampireOut;
   src: url(bloodlust/bloodlustout.ttf);
 }
+@font-face {
+  font-family:VampireText;
+  src: url(vampire-king-demo.regular.ttf);
+}
 body{
     background-color: #1a0010;
   }
   
   main{
     color: #ffffff;
+    font-family:VampireText;
+    font-size: 2em;
   }
   header {
     color: #cf0000;
