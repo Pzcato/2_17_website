@@ -13,15 +13,19 @@ body{
   main{
     color: #ffffff;
   }
-  a {
+  header {
     text-decoration: none;
     color: #cf0000;
     font-family: Vampire;
     font-size: 5em;
-    letter-spacing: 3px;
+    letter-spacing: 3.5px;
   }
   nav {
+    text-decoration: none;
+    color: #cf0000;
+    font-family: VampireOut;
+    font-size: 5em;
+    letter-spacing: 2.5px;
     text-align: center;
-    font-family: VampireOut
   }
   .list {padding-left: 25px;}
