@@ -1,6 +1,6 @@
 @font-face {
   font-family: Vampire;
-  src: url(bloodlust.ttf)
+  src: url(bloodlust.ttf);
 }
 body{
     background-color: #1a0010;
@@ -13,5 +13,4 @@ body{
     text-decoration: none;
     color: #cf0000;
   }
-  nav a {}
   .list {padding-left: 25px;}
