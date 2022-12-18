@@ -12,5 +12,6 @@ body{
   a {
     text-decoration: none;
     color: #cf0000;
+    font-family: Vampire;
   }
   .list {padding-left: 25px;}
