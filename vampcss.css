@@ -1,6 +1,6 @@
 @font-face {
   font-family: Vampire;
-  src: url(bloodlust/bloodlustrotal.ttf);
+  src: url(bloodlust/bloodlustexpand.ttf);
   font-stretch: extra-expanded;
 }
 body{
@@ -15,6 +15,7 @@ body{
     color: #cf0000;
     font-family: Vampire;
     font-size: 5em;
+    letter-spacing: 3px;
   }
   nav {
     text-align: center;
