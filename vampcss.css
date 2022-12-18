@@ -3,8 +3,8 @@
   src: url(bloodlust/bloodlustexpand.ttf);
 }
 @font-face {
-  font-family:vampireOut;
-  src: url(bloodlust/bloodlustout.ttf)
+  font-family:VampireOut;
+  src: url(bloodlust/bloodlustout.ttf);
 }
 body{
     background-color: #1a0010;
@@ -23,7 +23,7 @@ body{
   nav {
     text-decoration: none;
     color: #cf0000;
-    font-family: vampireOut;
+    font-family: VampireOut;
     font-size: 5em;
     letter-spacing: 2px;
     text-align: center;
