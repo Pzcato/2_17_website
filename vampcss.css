@@ -20,12 +20,5 @@ body{
     font-size: 5em;
     letter-spacing: 4px;
   }
-  nav {
-    text-decoration: none;
-    color: #cf0000;
-    font-family: VampireOut;
-    font-size: 5em;
-    letter-spacing: 2px;
-    text-align: center;
-  }
+
   .list {padding-left: 25px;}
