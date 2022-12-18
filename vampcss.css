@@ -1,7 +1,10 @@
 @font-face {
   font-family: Vampire;
   src: url(bloodlust/bloodlustexpand.ttf);
-  font-stretch: extra-expanded;
+}
+@font-face {
+  font-family:vampireout;
+  src: url(bloodlust/bloodlustout.ttf)
 }
 body{
     background-color: #1a0010;
@@ -19,5 +22,6 @@ body{
   }
   nav {
     text-align: center;
+    font-family: VampireOut
   }
   .list {padding-left: 25px;}
