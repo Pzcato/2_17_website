@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Vampire;
+  src: "bloodlust.ttf"
+}
 body{
     background-color: #1a0010;
   }
