@@ -44,7 +44,13 @@ body{
     color: #cf0000;
     text-decoration: none;
   }
-  .list {padding-left: 20px;}
+  .list {
+    padding-left: 20px;
+  }
+  .emph {
+    color:#cf0000;
+    font-size: 1.2em;
+  }
 dt{
   padding-left: 75px;
 }
