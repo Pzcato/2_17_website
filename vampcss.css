@@ -18,7 +18,7 @@ body{
   main{
     color: #ffffff;
     font-family:VampireText;
-    font-size: 2em;
+    font-size: 1.2em;
     letter-spacing: 1px;
   }
   .mp {
@@ -49,7 +49,7 @@ body{
   }
   .emph {
     color:#cf0000;
-    font-size: 1.2em;
+    font-size: 1.5em;
   }
 dt{
   padding-left: 75px;
@@ -57,6 +57,6 @@ dt{
 footer{
   color: #ffffff;
   font-family: Courier, arial;
-  font-size: 1.2em;
+  font-size: 1em;
   letter-spacing: 1px;
 }
