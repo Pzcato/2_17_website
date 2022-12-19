@@ -48,7 +48,8 @@ body{
     text-decoration: none;
   }
   .list {
-    padding-left: 0px;
+    padding-left: 20px;
+    
   }
   .emph {
     color:#cf0000;
