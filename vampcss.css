@@ -67,5 +67,7 @@ footer{
   float: right;
   padding-left:100px;
   padding-top:-50px;
+  height: 50%;
+  overflow: hidden;
 
 }
