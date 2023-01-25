@@ -65,6 +65,6 @@ footer{
   letter-spacing: 1px;
 }
 .charimage {
-  align: right;
-  
+  float: right;
+
 }
