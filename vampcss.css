@@ -25,7 +25,6 @@ body{
     letter-spacing: 1px;
   }
   .mp {
-    margin-right: 560px;
   }
   header {
     color: #cf0000;
@@ -66,5 +65,7 @@ footer{
 }
 .charimage {
   float: right;
+  padding-left:560px;
+  padding-top:-25px;
 
 }
