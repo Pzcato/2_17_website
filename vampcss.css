@@ -32,7 +32,7 @@ body{
   header {
     color: #cf0000;
     font-family: Vampire;
-    font-size: 5em;
+    font-size: 1em;
     letter-spacing: 4px;
     text-align: center;
     padding:-250px;
@@ -40,7 +40,7 @@ body{
   nav {
     color: #cf0000;
     font-family: VampireOut;
-    font-size: 5em;
+    font-size: 1em;
     letter-spacing: 2px;
     text-align: center;
     padding:-250px;
@@ -71,4 +71,7 @@ footer{
   padding-left:100px;
   padding-top:-100px;
 
+}
+.content {
+  display:flex;
 }
