@@ -27,8 +27,13 @@ body{
     font-size: 1.2em;
     letter-spacing: 1px;
   }
-  .mp {
+.content {
+    display:flex;
+    flex-direction:row;
   }
+.text {
+  flex-grow:1;
+}
   header {
     color: #cf0000;
     font-family: Vampire;
@@ -70,5 +75,6 @@ footer{
   float: right;
   padding-left:100px;
   padding-top:-100px;
+  flex-grow:2;
 
 }
