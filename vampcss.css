@@ -32,7 +32,8 @@ body{
     flex-direction:row;
   }
 .text {
-  flex-grow:2;
+  flex-grow:1;
+  order:1;
 }
   header {
     color: #cf0000;
@@ -76,5 +77,6 @@ footer{
   padding-left:100px;
   padding-top:-100px;
   flex-grow:1;
+  order:2;
 
 }
