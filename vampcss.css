@@ -70,6 +70,7 @@ footer{
   font-family: Courier, arial;
   font-size: 1em;
   letter-spacing: 1px;
+  flex:none
 }
 .charimage {
   float: right;
