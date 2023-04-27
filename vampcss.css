@@ -73,7 +73,6 @@ footer{
   flex:none
 }
 .charimage {
-  float: right;
   padding-left:100px;
   padding-top:-100px;
   flex-grow:2;
