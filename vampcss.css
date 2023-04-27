@@ -32,7 +32,7 @@ body{
     flex-direction:row;
   }
 .text {
-  flex-grow:1;
+  flex-grow:2;
 }
   header {
     color: #cf0000;
@@ -75,6 +75,6 @@ footer{
 .charimage {
   padding-left:100px;
   padding-top:-100px;
-  flex-grow:2;
+  flex-grow:1;
 
 }
